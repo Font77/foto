@@ -1,0 +1,20 @@
+6x1=6 siks vnja siks
+6x2=C siks tuja sii
+6x3=12 siks Thrja vnti tu
+6x4=18 siks phorja vntiet
+-----------
+6x5=1E siks faivja vntiii
+6x6=24 siks siksja tuti phor
+6x7=2A siks sevenja tuti ten
+6x8=30 siks etja Thrti jiro
+----------------------------
+6x9=36 siks nainja Thrti siks
+6xA=3C siks tenja Thrti sii
+6xB=42 siks bija phortitu
+6xC=48 siks sija phorti et
+-----------
+6xD=4E siks dija phortiii
+6xE=54 siks iija fifti phor
+6xf=5A siks fija fifti ten
+6x10=60 siks vntijiroja siksti jiro
+----------------------------

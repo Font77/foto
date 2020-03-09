@@ -1,0 +1,22 @@
+2 4 6 8 A C E 10 12 14 16 18 1A 1C 1E 20
+===========================
+2X1=2 ,tuu vnja tuu
+2X2=4 ,tuu tuja phor
+2X3=6 ,tuu xhrija siks
+2X4=8 ,tuu phorja et
+------------
+2X5=A ,tuu phaivja ten
+2X6=C ,tuu siksja sii
+2X7=E ,tuu sevenja ii
+2X8=10 ,tuu etja vnti jiro
+-------------------------
+2X9=12 ,tuu nainja vntitu
+2XA=14 ,tuu tenja vntiphor
+2XB=16 ,tuu biija vntisiks
+2XC=18 ,tuu siija vntiet
+------------
+2XD=1A ,tuu diija vntiten
+2XE=1C ,tuu iija vntisii
+2XF=1E ,tuu fiija vntii
+2X10=20 ,tuu vntijiroa tuti jiro
+------------------------------

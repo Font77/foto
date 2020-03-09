@@ -1,0 +1,22 @@
+8 10 18 20 28 30 38 40 48 50 58 60 68 70 78 80
+===========================
+8X1=8 ,et vnja et
+8X2=10 ,et tuja vnti jiro
+8X3=18 ,et xhrija vntiet
+8X4=20 ,et phorja tuti jiro
+------------
+8X5=28 ,et phaivja tutiet
+8X6=30 ,et siksja Thrti jiro
+8X7=38 ,et sevenja Thrtiet
+8X8=40 ,et etja phorti jiro
+------------------------
+8X9=48 ,et nainja phortiet
+8XA=50 ,et tenja phiphtisuny
+8XB=58 ,et biija phiphtiet
+8XC=60 ,et siija sikstisuny
+------------
+8XD=68 ,et diija sikstiet
+8XE=70 ,et iija seventi jiro
+8XF=78 ,et fiija seventiet
+8X10=80 ,et vntijiroja etti jiro
+------------------------

@@ -1,0 +1,18 @@
+10 20 30 40 50 60 70 80 90 A0 B0 C0 D0 E0 F0 100
+===========================
+10X1=10 ,vntijiro vnja vntijiro
+10X2=20 ,vntijiro tuja tutijiro
+10X3=30 ,vntijiro Thrija Thrtijiro
+10X4=40 ,vntijiro phorja phortijiro
+10X5=50 ,vntijiro phaivja phiphtijiro
+10X6=60 ,vntijiro siksja sikstijiro
+10X7=70 ,vntijiro sevenja seventijiro
+10X8=80 ,vntijiro etja ettijiro
+10X9=90 ,vntijiro nainja naintijiro
+10XA=A0 ,vntijiro tenja tentijiro
+10XB=B0 ,vntijiro biija bitijiro
+10XC=C0 ,vntijiro siija sitijiro
+10XD=D0 ,vntijiro diija ditijiro
+10XE=E0 ,vntijiro iija iitijiro
+10XF=F0 ,vntijiro fiija fitijiro
+10X10=100 ,vntijiro vntijiroja vntiso

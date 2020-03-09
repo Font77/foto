@@ -1,0 +1,22 @@
+4 8 C 10 14 18 1C 20 24 28 2C 30 34 38 3C 40
+===========================
+4X1=4 ,phor vnja phor
+4X2=8 ,phor tuja et
+4X3=C ,phor xhrija sii
+4X4=10 ,phor phorja vntisuny
+------------
+4X5=14 ,phor phaivja vntiphor
+4X6=18 ,phor siksja vntiet
+4X7=1C ,phor sevenja vntisii
+4X8=20 ,phor etja tutisuny
+------------------------
+4X9=24 ,phor nainja tutiphor
+4XA=28 ,phor tenja tutiet
+4XB=2C ,phor biija tutisii
+4XC=30 ,phor siija Thrtisuny
+------------
+4XD=34 ,phor diija Thrtiphor
+4XE=38 ,phor iija Thrtiet
+4XF=3C ,phor fiija Thrtisii
+4X10=40 ,phor vntisunyja
+------------------------
